@@ -9,10 +9,12 @@
 - Source: Metropolitan Area Planning Council (MAPC) and the Boston University School of Public Health (BUSPH)
 - Link: https://datacommon.mapc.org/browser/datasets/413
 
-    `Summary`: In a study of the MAPC region, researchers examined where residents live in relation to high-pollution roads, focusing on households within 150 meters. They introduced the Pollution Proximity Index (PPI) that considers traffic factors and proximity to pollution sources. High PPI areas often have busy roadways, especially freeways and main roads with diesel vehicles. (more details on Google Drive). 
+    `Summary:` In a study of the MAPC region, researchers examined where residents live in relation to high-pollution roads, focusing on households within 150 meters. They introduced the Pollution Proximity Index (PPI) that considers traffic factors and proximity to pollution sources. High PPI areas often have busy roadways, especially freeways and main roads with diesel vehicles. (more details on Google Drive). 
 
 
 
 #### <ins> Air quality sensor data ####
 
 - link: https://www.arcgis.com/apps/dashboards/7ee4b278406445d7b8d487a49a2d88d9
+
+    `Summary:` The dashboard displays data from outdoor air quality sensors around Boston, measuring variables such as PM2.5, PM10.0, Carbon Monoxide (CO), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2), VOC (Volatile Organic Compounds), AQI (Air Quality Index), Ozone, Relative Humidity, Temperature, and Pressure
