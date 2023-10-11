@@ -15,6 +15,15 @@
 
 #### <ins> Air quality sensor data ####
 
-- link: https://www.arcgis.com/apps/dashboards/7ee4b278406445d7b8d487a49a2d88d9
+- Link: https://www.arcgis.com/apps/dashboards/7ee4b278406445d7b8d487a49a2d88d9
 
     `Summary:` The dashboard displays data from outdoor air quality sensors around Boston, measuring variables such as PM2.5, PM10.0, Carbon Monoxide (CO), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2), VOC (Volatile Organic Compounds), AQI (Air Quality Index), Ozone, Relative Humidity, Temperature, and Pressure
+
+
+### Census Data for Demographics ####
+
+- Link: https://www.census.gov/programs-surveys/acs/data.html 
+
+    `Summary:` Has a bunch of tools that may help with analyzing data: Geometric Comparison Table (Geographic Comparison Tables allow users to compare ACS data across geographic areas in the same table. ACS Geographic Comparison Tables begin with the letters "GCT.")
+
+    - Geometric Comparison Table: https://www.census.gov/acs/www/data/data-tables-and-tools/geographic-comparison-tables/
