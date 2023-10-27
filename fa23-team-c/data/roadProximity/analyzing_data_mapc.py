@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Redirecting the standard output to a file
-with open('output.txt', 'w') as file:
+with open('../results/output.txt', 'w') as file:
     # Load the dataset
     data = pd.read_csv('/Users/matias/Documents/ds-boston-transit-air-quality/fa23-team-c/data/mapc.health_mapc_ppi_g250.csv')
     
