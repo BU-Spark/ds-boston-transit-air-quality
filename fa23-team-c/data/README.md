@@ -3,7 +3,7 @@
 ## Data Sources ##
  
 #### <ins> Proximity to Roads ####
-- File name: mapc.health_mapc_ppi_g250.
+- File name: [mapc.health_mapc_ppi_g250](/fa23-team-c/data/roadProximity).
 - A shapefile of the 250-meter gridded population data with associated PPI scores.
 - Gridded population by race, categorized by Pollution Proximity Intensity (PPI), a weighted measure of intensity of roadway vehicle emissions of nitrogen oxides (NOx).
 - Source: Metropolitan Area Planning Council (MAPC) and the Boston University School of Public Health (BUSPH)
@@ -11,7 +11,19 @@
 
     `Summary:` In a study of the MAPC region, researchers examined where residents live in relation to high-pollution roads, focusing on households within 150 meters. They introduced the Pollution Proximity Index (PPI) that considers traffic factors and proximity to pollution sources. High PPI areas often have busy roadways, especially freeways and main roads with diesel vehicles. (more details on Google Drive). 
 
+#### <ins> Climate Ready Boston Social Vulnerability ####
+- File name: [Climate_Ready_Boston_Social_Vulnerability.csv](/fa23-team-c/data/socialVulnerability/)
+- A csv file describes number of vulnerable groups in different neighborhoods in Boston. 
+- Attributes (not mentioned above):
+    - GEOID10: Geographic identifier: State Code (25), Country Code (025), 2010 Census Tract
+    - AREA_SQFT/AREA_ACRES: Tract area (in square feet/acres)
+    - POP100_RE: Tract population count
+    - HU100_RE: Tract housing unit count
+    - Name: Boston Neighborhood
+- Source: Climate Ready Boston
+- Link: https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability
 
+    `Summary:` Social vulnerability is defined as the disproportionate susceptibility of some social groups to the impacts of hazards, including death, injury, loss, or disruption of livelihood. In this dataset from Climate Ready Boston, groups identified as being more vulnerable are older adults, children, people of color, people with limited English proficiency, people with low or no incomes, people with disabilities, and people with medical illnesses. 
 
 #### <ins> Air quality sensor data ####
 
