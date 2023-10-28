@@ -1,0 +1,19 @@
+Week O Scrum Report
+
+1. What is the project focus/overall goal?
+A. The overall goal of this project is to derive insights that help guide policy decisions aimed at reducing air pollution and improving public health in Boston. The focus is to evaluate the yearly change in air quality and its correlation with the demographic characteristics of residents, their proximity to different types of transport infrastructures, and their health impacts. We will further explore potential patterns or inferences and delve into identifying areas with the best or worst isolated air pollution problems, their health impacts, and the relationship to traffic data and transit performance.
+
+2. Why is this project important?
+A. This project holds significance due to its focus on the critical intersection of transportation, air quality, and societal well-being in Boston. By delving into how different forms of transportation infrastructure impact air quality and how this, in turn, affects the health and equity of residents, the project aims to provide actionable insights for policymakers to mitigate air pollution, enhance public health, and ensure fair access to clean transportation solutions.
+
+3. What type of data will you collect or be analyzing?
+A. As of current the type of data we will collect and/or analyze for this project includes proximity to vehicle air pollution sources, outdoor air quality data collected by sensors deployed around Boston, Area median income, transit data from the city of Boston’s GIS, census data for demographics gathered by the U.S. Census Bureau, and Social Vulnerability Index data concerning the disproportionate susceptibility of certain social groups to the impacts of hazards like pollution.
+
+4. What are potential limitations of the project?
+A. Potential limitations of this project include data completness and consistency between all the sources provided to us. Additionally since we're correlating data from different sources this might lead to incorrect conclusions. Data for this particular project has a higher chance of being effected by external events such as extreme weather exceptions.
+
+5. What are your next steps? Divide tasks amongst the team
+A. We are first going to pre-process the data that relates to the following base questions:
+-The yearly change in air quality based on their proximity to different types of transportation. 
+-The trends in yearly change in air quality for Boston residents  by neighborhood, zip code.
+We will split our team into two groups, each group focusing on one of the questions. Each group will pre-process the data for their question, do a preliminary analysis and answer the assigned base question.
