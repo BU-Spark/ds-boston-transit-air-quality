@@ -1,0 +1,17 @@
+Weekly Scrum Report Questions
+
+1. What have we worked on?
+
+A shared folder of csv dataset files that we have collected from the resources given. Started cleaning up the data that we were given.
+
+2. What will we be working on next?
+
+Finishing the pre-processing of the datasets and wrap up answering the key questions that we have chosen. Essentially finishing up deliverable 1.
+
+3. Have we run into any issues? Do we need help?
+
+We haven’t run into any issues. No help needed as of now.
+
+4. Team Lead: Have we talked to the TPM rcently? When are we meeting with them next?
+
+We have updated the TPM of our progress. We will meet them next lab on 11/2.
