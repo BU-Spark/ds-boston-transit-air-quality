@@ -36,5 +36,8 @@ Name: ppi5, dtype: float64
 Average PPI by Commute Type will be saved as 'avg_ppi_by_commtype.png'
 
 
+Plain map of Boston will be saved as 'plain_boston_map.html'
 
+
+Heatmap of Boston based on PPI will be saved as 'boston_heatmap.html'
 
