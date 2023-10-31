@@ -12,6 +12,9 @@
 
 
 #### <ins>Census Data for Demographics</ins>
+- File name: [Selected_Economic_Characteristics.csv](/fa23-team-a/data/csv_files/Selected_Economic_Characteristics.csv).
+- File name: [Selected_Housing_Characteristics.csv](/fa23-team-a/data/csv_files/Selected_Housing_Characteristics.csv).
+- File name: [Selected_Social_Characteristics.csv](/fa23-team-a/data/csv_files/Selected_Social_Characteristics.csv).
 - Description: The U.S. Census Bureau's data portal provides a wealth of demographic, economic, and housing data collected from across the United States.
 - Data content: The portal includes datasets from the Decennial Census, the American Community Survey, and various other studies and assessments conducted by the U.S. Census Bureau. It covers a broad range of topics such as population demographics, income, education, employment, housing characteristics, and more.
 - Source: All data is collected and maintained by the U.S. Census Bureau.
