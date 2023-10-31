@@ -1,7 +1,7 @@
 # Data Explanation #
 
 #### <ins>MAPC Health and Pollution Proximity Intensity Data</ins>
-- File name: [mapc_population_proximity_index.csv](/fa23-team-a/data/csv_files/mapc_population_proximity_index.csv).
+- File name: [pollution_proximity_intensity.csv](/fa23-team-a/data/csv_files/pollution_proximity_intensity.csv)
 - Description: This dataset encapsulates the demographic distribution within Boston's 250-meter grid cells and associates each cell with a Pollution Proximity Intensity (PPI) score.
 - Data content: Populational statistics by race within the designated grid cells are coupled with a PPI score, indicating the level of exposure to vehicle emission-related pollutants, predominantly nitrogen oxides (NOx).
     - nhwhi_10: Non-Hispanic White
