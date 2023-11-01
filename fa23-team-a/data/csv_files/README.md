@@ -16,6 +16,22 @@
 
 
 
+#### <ins>Boston Demographic and Environmental Data</ins>
+- File name: [boston_dem.csv](/fa23-team-a/data/boston_dem.csv)
+- Description: This dataset provides detailed demographic information along with environmental data for various areas within Boston. It quantifies population characteristics, housing units, age distribution, proximity to pollutants, and more.
+- Data content: The dataset includes demographic statistics like total population, housing units, and age-related demographics, as well as environmental data points such as particulate matter measurements. Key columns are:
+    - `POP100_RE`: Total population
+    - `HU100_RE`: Housing units
+    - `MedIllnes`: Median illness index
+    - `pm2.5_atm`: Atmospheric particulate matter with a diameter of less than 2.5 micrometers
+    - `pm10_atm`: Atmospheric particulate matter with a diameter of less than 10 micrometers
+- Source: Combined sources from Purple Air and Climate_Ready_Boston_Social_Vulnerability.geojson
+
+    `Summary:` The Boston Demographic and Environmental Data set serves as a comprehensive tool for understanding the socio-demographic layout of Boston in relation to environmental factors such as air quality. The inclusion of particulate matter readings offers insights into the potential respiratory and health risks associated with different areas. This data can be instrumental for urban planners, health researchers, and policymakers in assessing the impact of environmental conditions on various populations, guiding targeted interventions, and improving urban health outcomes.
+
+
+
+
 #### <ins>Census Data for Demographics</ins>
 - File name: [Selected_Economic_Characteristics.csv](/fa23-team-a/data/csv_files/Selected_Economic_Characteristics.csv).
 - File name: [Selected_Housing_Characteristics.csv](/fa23-team-a/data/csv_files/Selected_Housing_Characteristics.csv).
