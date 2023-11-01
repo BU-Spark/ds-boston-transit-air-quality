@@ -24,6 +24,7 @@ Outdoor Air Quality Sensors measuring PM2.5, PM10, and Ozone. Data Gathered usin
 
 ## Transit Data
 https://boston.maps.arcgis.com/home/webmap/viewer.html?layers=fda29d2d98ff427588064375c5c9afe5
+
 MBTA T stops across Boston. Converted to a geojson.
 
 - All the T stops in the boston area, export_mbta_stops.geojson 
@@ -33,6 +34,8 @@ https://www.census.gov/programs-surveys/acs/data.html
 
 ## Social Vulnerability
 https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability
+
+Groups more likely vulnerable to impacts of hazards, including death, injury, loss, or disruption of livelihood.
 
 - File with all data: Climate_Ready_Boston_Social_Vulnerability.geojson
 
