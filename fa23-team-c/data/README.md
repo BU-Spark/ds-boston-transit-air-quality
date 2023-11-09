@@ -39,3 +39,7 @@
     `Summary:` Has a bunch of tools that may help with analyzing data: Geometric Comparison Table (Geographic Comparison Tables allow users to compare ACS data across geographic areas in the same table. ACS Geographic Comparison Tables begin with the letters "GCT.")
 
     - Geometric Comparison Table: https://www.census.gov/acs/www/data/data-tables-and-tools/geographic-comparison-tables/
+
+
+## Raw Data ##
+AirNow Daily Data: .zip file inside team shared drive
