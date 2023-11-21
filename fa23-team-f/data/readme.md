@@ -72,6 +72,9 @@ https://bluebikes.com/system-data
 - Contains a combined map with Air Quality, Transit, and Social Vulnerability data (mergedmap.html)
 - CSV file with all key information from Air Quality, Transit, and Social Vulnerability divided by neighborhood. (result.csv)
 
+## Open Spaces Data
+https://data.boston.gov/dataset/open-space
+
 
 
 
