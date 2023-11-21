@@ -1,3 +1,9 @@
+
+# Essential Files
+- DataByNeighborhood.csv - Summarized file with all essential information
+- neighborhood_map.html - Visual summary of information on map of Boston
+- Files under the Google AQI and Health Data Folder have most up-to-date data and analysis.
+
 # Data Defintions
 ## Proximity to Roads (PPI Index)
 https://www.mapc.org/wp-content/uploads/2020/05/PPA_Technical_Memorandum.pdf
@@ -21,6 +27,19 @@ Outdoor Air Quality Sensors measuring PM2.5, PM10, and Ozone. Data Gathered usin
 - filtered_air_quality_data.csv has all data for a given day for each zip code in a single line
 - air_quality_summary.csv provides the avg air quality for the year by zipcode
 
+## (Updated) Air Quality from Google Maps Air Quality API
+Note: All Deliverable 1 Code has been refactored to work with the Google Air Quality Data and new findings will be found udner the AQI folder.
+https://support.google.com/maps/answer/11270845?hl=en
+
+Contains 30 day data related to 
+
+Particulate matter, like PM2.5 and PM10
+Ozone (O3)
+Nitrogen dioxide (NO2)
+Sulfur dioxide (SO2)
+Carbon monoxide (CO)
+US AQI
+
 
 ## Transit Data
 https://boston.maps.arcgis.com/home/webmap/viewer.html?layers=fda29d2d98ff427588064375c5c9afe5
@@ -39,6 +58,15 @@ Groups more likely vulnerable to impacts of hazards, including death, injury, lo
 
 - File with all data: Climate_Ready_Boston_Social_Vulnerability.geojson
 
+## CDC Health Data
+https://catalog.data.gov/dataset/places-zcta-data-gis-friendly-format-2020-release-f976e
+Definitions: https://www.cdc.gov/places/measure-definitions/index.html
+
+## Bus Data
+https://hub.arcgis.com/maps/massgis::mbta-bus-routes-and-stops-1/about?layer=0
+
+## Blue Bikes Data
+https://bluebikes.com/system-data
 
 ## Merged Data
 - Contains a combined map with Air Quality, Transit, and Social Vulnerability data (mergedmap.html)
