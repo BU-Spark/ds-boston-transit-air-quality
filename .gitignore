@@ -170,5 +170,5 @@ $RECYCLE.BIN/
 .nfs*
 
 # team A specific ignores 
-./fa23-team-a/data/*
+fa23-team-a/data/*
 
