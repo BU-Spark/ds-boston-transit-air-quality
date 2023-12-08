@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Transit & Air Quality Dashboard</title>
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/ipyleaflet/dist/leaflet.css" />
+
+    <style>
+        .scroll-pane {
+            height: 90vh; 
+            overflow-y: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row bg-dark text-white p-3">
+            <div class="col">
+                <h3>City of Boston: Transit & Air Quality Dashboard</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-3 bg-light p-3 scroll-pane">
+                <h5>This Dashboard</h5>
+                <p>Air quality is a critical concern for the wellbeing of Boston residents. 
+                    Poor air quality could be detrimental to public health, causing respiratory issues such as Asthma.</p>
+
+                <p>This dashboards helps show key information across neighborhoods relating to 
+                    demographic, environmental, and health indicators to help understand the characteristics
+                    of each neighborhood.
+                </p>
+                <h5>Data Definitions</h5>
+                <!-- Demographic Information -->
+                <b>Demographic Information:</b><br>
+                <ul>
+                    <li><b>TotChild:</b> Total number of children in the neighborhood.</li>
+                    <li><b>OlderAdult:</b> Total number of older adults in the neighborhood.</li>
+                    <li><b>MedIllnes:</b> Number of individuals with medical illnesses in the neighborhood.</li>
+                    <li><b>POC2:</b> Percentage of people of color in the neighborhood.</li>
+                    <li><b>LEP:</b> Number of individuals with Limited English Proficiency in the neighborhood.</li>
+                    <li><b>Low_to_No:</b> Percentage of individuals with low to no income in the neighborhood.</li>
+                    <li><b>TotDis:</b> Total number of individuals with disabilities in the neighborhood.</li>
+                </ul>
+
+                <!-- Environmental Information -->
+                <b>Environmental Information:</b><br>
+                <ul>
+                    <li><b>NO2:</b> Concentration of Nitrogen Dioxide in the air.</li>
+                    <li><b>O3:</b> Concentration of Ozone in the air.</li>
+                    <li><b>PM10:</b> Concentration of Particulate Matter (PM10) in the air.</li>
+                    <li><b>PM2.5:</b> Concentration of Particulate Matter (PM2.5) in the air.</li>
+                    <li><b>SO2:</b> Concentration of Sulfur Dioxide in the air.</li>
+                    <li><b>AQI:</b> Air Quality Index representing the overall air quality.</li>
+                    <li><b>Category:</b> Air quality category based on AQI.</li>
+                </ul>
+
+                <!-- Transportation Information -->
+                <b>Transportation Information:</b><br>
+                <ul>
+                    <li><b>T Stops Count:</b> Total number of T (Trolley) stops in the neighborhood.</li>
+                    <li><b>Bus Stops Count:</b> Total number of bus stops in the neighborhood.</li>
+                    <li><b>Blue Bikes Stations Count:</b> Total number of Blue Bikes stations in the neighborhood.</li>
+                    <li><b>Blue Bikes Docks Count:</b> Total number of Blue Bikes docks in the neighborhood.</li>
+                </ul>
+
+                <!-- Health Information -->
+                <b>Health Information:</b><br>
+                <ul>
+                    <li><b>CASTHMA CrudePrev:</b> Crude prevalence of Asthma in the neighborhood.</li>
+                    <li><b>COPD CrudePrev:</b> Crude prevalence of Chronic Obstructive Pulmonary Disease (COPD) in the neighborhood.</li>
+                    <li><b>CHD CrudePrev:</b> Crude prevalence of Coronary Heart Disease (CHD) in the neighborhood.</li>
+                    <li><b>STROKE CrudePrev:</b> Crude prevalence of Stroke in the neighborhood.</li>
+                    <li><b>HIGHCHOL CrudePrev:</b> Crude prevalence of High Cholesterol in the neighborhood.</li>
+                    <li><b>GHLTH CrudePrev:</b> Crude prevalence of Good Health in the neighborhood.</li>
+                    <li><b>PHLTH CrudePrev:</b> Crude prevalence of Poor Health in the neighborhood.</li>
+                    <li><b>MHLTH CrudePrev:</b> Crude prevalence of Mental Health issues in the neighborhood.</li>
+                    <li><b>CSMOKING CrudePrev:</b> Crude prevalence of Cigarette Smoking in the neighborhood.</li>
+                    <li><b>BINGE CrudePrev:</b> Crude prevalence of Binge Drinking in the neighborhood.</li>
+                    <li><b>LPA CrudePrev:</b> Crude prevalence of Physical Inactivity in the neighborhood.</li>
+                    <li><b>OBESITY CrudePrev:</b> Crude prevalence of Obesity in the neighborhood.</li>
+                    <li><b>SLEEP CrudePrev:</b> Crude prevalence of Insufficient Sleep in the neighborhood.</li>
+                </ul>
+
+                <!-- Other Information -->
+                <b>Other Information:</b><br>
+                <ul>
+                    <li><b>Num Parks:</b> Total number of parks in the neighborhood.</li>
+                    <li><b>Payroll Jobs:</b> Total number of payroll jobs in the neighborhood.</li>
+                    <li><b>Labor Force:</b> Total labor force in the neighborhood.</li>
+                    <li><b>At least one vehicle (%):</b> Percentage of households with at least one vehicle in the neighborhood.</li>
+                    <li><b>Vehicles to Households Ratio:</b> Ratio of vehicles to households in the neighborhood.</li>
+                </ul>
+
+            </div>
+
+            <div class="col-9 p-3">
+                <iframe src="ipyleafletmap.html" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
