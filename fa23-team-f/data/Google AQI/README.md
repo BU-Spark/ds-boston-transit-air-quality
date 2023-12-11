@@ -1,0 +1,1 @@
+In this folder, you will find all the initial analysis and code behind the refactoring switch of air quality from using the AirNow API to Google Maps Air Quality API. New versions of all datasets and relevant processing are available here, as well as the filtering from tract based data to neighborhood based data.
