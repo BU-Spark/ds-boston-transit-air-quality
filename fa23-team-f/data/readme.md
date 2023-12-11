@@ -1,79 +1,74 @@
 
 # Essential Files
 - DataByNeighborhood.csv - Summarized file with all essential information
-- neighborhood_map.html - Visual summary of information on map of Boston
-- Files under the Google AQI and Health Data Folder have most up-to-date data and analysis.
+- VisualMap.html - Visual summary of information on map of Boston
+- Files under the Google AQI Folder, Health Data Folder, and Extension Folder have most up-to-date data and analysis.
 
-# Data Defintions
-## Proximity to Roads (PPI Index)
-https://www.mapc.org/wp-content/uploads/2020/05/PPA_Technical_Memorandum.pdf
-
-Gridded population by race, categorized by Pollution Proximity Intensity (PPI), a weighted measure of intensity of roadway vehicle emissions of nitrogen oxides (NOx). Shapefile & CSV.
-
-'nhwhi_10': 'Non-Hispanic White',
-'nhaa_10': 'Non-Hispanic African American',
-'nhapi_10': 'Non-Hispanic Asian',
-'lat_10': 'Latino or Hispanic',
-'nhoth_10': 'Non-Hispanic/Other Races'
-
-
-## Air Quality Sensor Data
-https://www.arcgis.com/apps/dashboards/7ee4b278406445d7b8d487a49a2d88d9
-
-Outdoor Air Quality Sensors measuring PM2.5, PM10, and Ozone. Data Gathered using AirNow API.
-
-- air_quality_data_1.csv and air_quality_data_2.csv is data pulled from the AirNow API
-- merged_air_quality_data.csv merges the above 2 files
-- filtered_air_quality_data.csv has all data for a given day for each zip code in a single line
-- air_quality_summary.csv provides the avg air quality for the year by zipcode
-
-## (Updated) Air Quality from Google Maps Air Quality API
-Note: All Deliverable 1 Code has been refactored to work with the Google Air Quality Data and new findings will be found udner the AQI folder.
-https://support.google.com/maps/answer/11270845?hl=en
-
-Contains 30 day data related to 
-
-Particulate matter, like PM2.5 and PM10
-Ozone (O3)
-Nitrogen dioxide (NO2)
-Sulfur dioxide (SO2)
-Carbon monoxide (CO)
-US AQI
+# Datasets:
+- [Proximity to Roads:](https://www.mapc.org/wp-content/uploads/2020/05/PPA_Technical_Memorandum.pdf) Examined the correlation between community types and the Proximity to Roads (PPI) Index, assessing how communities relate to road networks.
+- [Air Quality Data from Google Maps:](https://support.google.com/maps/answer/11270845?hl=en) Air Quality data including AQI, PM, SO2, NO2, and O3 across various areas in Boston pulled from AirNow and PurpleAir.
+- [MBTA Transit Data:](https://boston.maps.arcgis.com/home/item.html?id=fda29d2d98ff427588064375c5c9afe5) Geolocation of Trolley (T) stops across Boston
+- [Census Data:](https://www.census.gov/programs-surveys/acs/data.html) ACS census data from U.S. Census Bureau for every census tract and Boston neighborhood in Suffolk County.
+- [Social Vulnerability:](https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability) Information divided by tracts on groups more likely vulnerable to impacts of hazards, including death, injury, loss, or disruption of livelihood.
+- Health Dataset: CDC Data by Zip Code of prevalence of relevant health conditions such as Asthma and Physical Health.
+- [MBTA Bus Stops:](https://www.mass.gov/info-details/massgis-data-mbta-bus-routes-and-stops) Geolocations of Bus Stops across Boston.
+- [Blue Bikes Data:](https://bluebikes.com/system-data) Number of Blue Bikes stations and docks across Boston.
+- [Open Spaces and Green Spaces:](https://data.boston.gov/dataset/open-space) Information on the number of open spaces and parks in each neighborhood.
+- [Boston Neighborhoods Profile:](https://www.bostonplans.org/getattachment/f719d8d1-9422-4ffa-8d11-d042dd3eb37b) Population by Age, Labor Force, Payroll Jobs, Vehicle Ownership
 
 
-## Transit Data
-https://boston.maps.arcgis.com/home/webmap/viewer.html?layers=fda29d2d98ff427588064375c5c9afe5
+# Data Definitions
 
-MBTA T stops across Boston. Converted to a geojson.
+## Demographic Information:
 
-- All the T stops in the boston area, export_mbta_stops.geojson 
+- `TotChild`: Total number of children in the neighborhood.
+- `OlderAdult`: Total number of older adults in the neighborhood.
+- `MedIllnes`: Number of individuals with medical illnesses in the neighborhood.
+- `POC2`: Percentage of people of color in the neighborhood.
+- `LEP`: Number of individuals with Limited English Proficiency in the neighborhood.
+- `Low_to_No`: Percentage of individuals with low to no income in the neighborhood.
+- `TotDis`: Total number of individuals with disabilities in the neighborhood.
 
-## Census Data
-https://www.census.gov/programs-surveys/acs/data.html
+## Environmental Information:
 
-## Social Vulnerability
-https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability
+- `NO2`: Concentration of Nitrogen Dioxide in the air.
+- `O3`: Concentration of Ozone in the air.
+- `PM10`: Concentration of Particulate Matter (PM10) in the air.
+- `PM2.5`: Concentration of Particulate Matter (PM2.5) in the air.
+- `SO2`: Concentration of Sulfur Dioxide in the air.
+- `AQI`: Air Quality Index representing the overall air quality.
+- `Category`: Air quality category based on AQI.
 
-Groups more likely vulnerable to impacts of hazards, including death, injury, loss, or disruption of livelihood.
+## Transportation Information:
 
-- File with all data: Climate_Ready_Boston_Social_Vulnerability.geojson
+- `T Stops Count`: Total number of T (Trolley) stops in the neighborhood.
+- `Bus Stops Count`: Total number of bus stops in the neighborhood.
+- `Blue Bikes Stations Count`: Total number of Blue Bikes stations in the neighborhood.
+- `Blue Bikes Docks Count`: Total number of Blue Bikes docks in the neighborhood.
 
-## CDC Health Data
-https://catalog.data.gov/dataset/places-zcta-data-gis-friendly-format-2020-release-f976e
-Definitions: https://www.cdc.gov/places/measure-definitions/index.html
+## Health Information:
 
-## Bus Data
-https://hub.arcgis.com/maps/massgis::mbta-bus-routes-and-stops-1/about?layer=0
+- `CASTHMA CrudePrev`: Crude prevalence of Asthma in the neighborhood.
+- `COPD CrudePrev`: Crude prevalence of Chronic Obstructive Pulmonary Disease (COPD) in the neighborhood.
+- `CHD CrudePrev`: Crude prevalence of Coronary Heart Disease (CHD) in the neighborhood.
+- `STROKE CrudePrev`: Crude prevalence of Stroke in the neighborhood.
+- `HIGHCHOL CrudePrev`: Crude prevalence of High Cholesterol in the neighborhood.
+- `GHLTH CrudePrev`: Crude prevalence of Good Health in the neighborhood.
+- `PHLTH CrudePrev`: Crude prevalence of Poor Health in the neighborhood.
+- `MHLTH CrudePrev`: Crude prevalence of Mental Health issues in the neighborhood.
+- `CSMOKING CrudePrev`: Crude prevalence of Cigarette Smoking in the neighborhood.
+- `BINGE CrudePrev`: Crude prevalence of Binge Drinking in the neighborhood.
+- `LPA CrudePrev`: Crude prevalence of Physical Inactivity in the neighborhood.
+- `OBESITY CrudePrev`: Crude prevalence of Obesity in the neighborhood.
+- `SLEEP CrudePrev`: Crude prevalence of Insufficient Sleep in the neighborhood.
 
-## Blue Bikes Data
-https://bluebikes.com/system-data
+## Other Information:
 
-## Merged Data
-- Contains a combined map with Air Quality, Transit, and Social Vulnerability data (mergedmap.html)
-- CSV file with all key information from Air Quality, Transit, and Social Vulnerability divided by neighborhood. (result.csv)
-
-## Open Spaces Data
-https://data.boston.gov/dataset/open-space
+- `Num Parks`: Total number of parks in the neighborhood.
+- `Payroll Jobs`: Total number of payroll jobs in the neighborhood.
+- `Labor Force`: Total labor force in the neighborhood.
+- `At least one vehicle (%)`: Percentage of households with at least one vehicle in the neighborhood.
+- `Vehicles to Households Ratio`: Ratio of vehicles to households in the neighborhood.
 
 
 

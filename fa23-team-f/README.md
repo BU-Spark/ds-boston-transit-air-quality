@@ -10,7 +10,7 @@ Air quality is a critical concern for the wellbeing of Boston residents. Poor ai
 - In the Google AQI folder, the analysis.ipynb contains most of the graph based analysis 
 - In the Extension folder, the extensionanalysis.ipynb contains most of the graph based analysis, with some other files that answer other specific questions. Additionally, you can see the relevant extension datasets in this folder.
 - DataByNeighborhood.csv has a consolidated csv by neighborhood of all information.
-- VisualMap.html has a consolidated visual overview of the same data in DataByNeighborhood.csv. This can also been seen a cleaner format on our [Dashboard Website](https://hemanshubhojwani.com/cs506dashboard)
+- VisualMap.html has a consolidated visual overview of the same data in DataByNeighborhood.csv. This can also be seen a cleaner format on our [Dashboard Website](https://hemanshubhojwani.com/cs506dashboard)
 
 
 [![Dashboard](dashboard.png)](https://hemanshubhojwani.com/cs506dashboard)
