@@ -17,7 +17,7 @@ The primary objective of our project is to explore the impact of Boston's transp
 
 ## Questions Answered
 
-# Base Question
+### Base Question
 How do areas with poor air quality compare to areas with better air quality based on different demographic characteristics, specifically:
 - Race/ethnicity (ACS)
 - Area median income/ income
@@ -25,12 +25,12 @@ How do areas with poor air quality compare to areas with better air quality base
 - Population density
 - Social vulnerability 
 
-# Extension Question
+### Extension Question
 What is the relationship between the community types (municipalities mapping to community types) in Boston and the PPI data with regards to race distributions, median income, and MBTA infrastructure?
 
 ## How to Run the Project Files
 
-# Base Project
+### Base Project
 
 In order to run the Deliverable1Submission.ipynb notebook which contains all the analysis done when exploring the base question the following datasets are required:
 1. PPI_data.csv
@@ -41,7 +41,7 @@ In order to run the Deliverable1Submission.ipynb notebook which contains all the
 6. Climate_Ready_Boston_Social_Vulnerability.csv
 !Make sure to change the file paths of the above files
 
-# Extension Project
+### Extension Project
 In order to run the Deliverable1Submission.ipynb notebook which contains all the analysis done when exploring the base question the following datasets are required:
 1. mapc.health_mapc_ppi_g250.csv
 2. cities_and_towns.xlsx
