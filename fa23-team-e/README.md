@@ -21,8 +21,27 @@ Investigate the relationship between transportation infrastructure and its impac
   4. What is the relationship between these yearly changes in air quality for Boston residents and health outcomes (e.g., asthma rates, lung cancer rates) (Extension Part)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+## Dependencies
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - tabulate
+  - scipy
+  - geopandas
+  - shapely
+  - plotly.graph_objects
+  - ipywidgets
+  - folium
+  - folium.plugins
+  - IPython.display
+  - plotly.express
 
 ## How to Run the Project Files
+
+The main notebook for the base questions: Base Questions and Inital Analysis > Base_Question_Analysis.ipynb
+The final notebook for the extension project: Extension Projec > Analysis > Deliverable5_Code_Extion_Final.ipynb
+
 ### Base Questions Notebook
 In order to run the Analysis.ipynb notebook which contains all the analysis done when exploring the base questions the following datasets are required:
   - 2021_Daily_Aqi_Data_Cleaned.csv
