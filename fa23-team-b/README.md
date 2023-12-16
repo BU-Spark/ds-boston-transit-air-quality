@@ -39,7 +39,7 @@ In order to run the Deliverable1Submission.ipynb notebook which contains all the
 4. density_data.csv
 5. ZIP_Codes.shp
 6. Climate_Ready_Boston_Social_Vulnerability.csv
-!Make sure to change the file paths of the above files
+
 
 ### Extension Project
 In order to run the Deliverable1Submission.ipynb notebook which contains all the analysis done when exploring the base question the following datasets are required:
@@ -48,5 +48,5 @@ In order to run the Deliverable1Submission.ipynb notebook which contains all the
 3. tabular._datakeys_muni_all.csv
 4. MBTA_Bus_Routes_and_Stops.csv
 5. tabular.b03002_race_ethnicity_acs_m_2017-21.csv
-!Make sure to change the file paths of the above files
+
 
