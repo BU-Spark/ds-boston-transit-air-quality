@@ -1,0 +1,17 @@
+Weekly Scrum Report Questions
+
+1. What have we worked on?
+Gathering external resources outside of those provided since a couple of the links in the google docs weren’t accessible. 
+Preliminary analysis of the datasets accessible.
+
+2. What will we be working on next?
+Starting preliminary data analysis on the data we gathered from external resources and the data we were given. Start dividing up the analysis tasks and questions amongst members of the group. Start answering the following questions:
+- How do areas with poor air quality compare to areas with better air quality based on different demographic characteristics, specifically.
+- What is the relationship between health data and What are the trends in yearly change in air quality for Boston residents by neighborhood, zip code.
+
+3. Have we run into any issues? Do we need help?
+We haven’t run into any issues. No help needed as of now.
+
+4. Team Lead: Have we talked to the client recently? When are we meeting with them next?
+Spoke to the TPM on Thursday (10/19). We will also be meeting with the TPM next Thursday (10/26) for our next update.
+
