@@ -1,0 +1,415 @@
+01/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,26,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.2,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,3,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,39,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,13,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1017.1,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,13,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,21,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,13,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,-5,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,2.5,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,237,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,62,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,8,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,29,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,2,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,43,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,-5,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,46.2,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,18.1,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.9,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,204,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,54,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1015.7,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.39,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,2.2,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,29.5,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,241,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,18.8,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,1.6,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1018.4,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.51,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,61,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+01/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,-4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,32,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.3,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,47,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,15,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1018.4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,31,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,10,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,27,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,1,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,2.1,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,263,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,63,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,6,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,36,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,5,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,54,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,57.8,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,19,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,206,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,38,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1018.4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.53,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,3,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,24.4,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,275,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,19.5,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,36,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,1.7,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1019.7,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.53,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,64,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,28,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,41,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+02/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,37,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,54,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,18,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1026.4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,10,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,35,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,11,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,-7,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,2.5,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,240,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,34,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,12,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,37,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,48,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,-6,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,48.9,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,14.7,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.7,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,201,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,23,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1026.4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.43,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,3,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,20.5,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,247,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,12.4,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,1.5,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1027.7,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.63,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,27,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+03/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,-5,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,12,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.5,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,17,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,4,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1013.1,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,3,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,40,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,3,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,4,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,6.1,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,355,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,65,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,31,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,9,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,2,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,11,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,5,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,12.1,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,2,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,3.8,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,9,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,56,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1011.7,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.21,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,6.8,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,359,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,5.2,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,3.8,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1014.4,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.21,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,65,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+04/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,5,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,18,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.6,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,26,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,8,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1025.1,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,0,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,38,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,1,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,5,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,5.1,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,101,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,89,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,29,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,10,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,11,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,6,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,13.4,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,4.7,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.4,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,137,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,84,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1023.7,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.2,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,5.3,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,117,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,1.5,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,3.5,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1026.4,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.15,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,95,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+05/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1023.7,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,2,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,25,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,3,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,10,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,0.8,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,345,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,82,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,19,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,21,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,23,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,12,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,25.6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,7.6,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,0.8,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,134,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,68,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1023.7,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.25,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,94,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,6.9,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,16,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,0.8,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1025.1,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.22,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,21,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,5,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,77,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,2,Massachusetts Dept. of Environmental Protection
+06/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,12,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.3,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1011.7,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,8,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,4,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,55,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,4,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,25,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,3,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,231,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,62,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,49,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,8,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,7,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,8,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,27,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,11.5,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,5.2,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,3.1,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,222,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,55,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1011.7,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.23,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,230,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,11.6,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,15,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,2.8,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1013.1,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.4,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,20,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,4,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,57,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,3,Massachusetts Dept. of Environmental Protection
+07/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,27,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,16,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.3,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,19,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,3,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,22,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,3.1,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,196,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,58,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1018.4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,5,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,52,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,42,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,23,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,13.2,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,5.4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.5,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,201,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,54,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1018.4,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.28,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,19,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.43,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,26,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,7,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,56,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,186,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,19.5,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,23,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,2.5,Massachusetts Dept. of Environmental Protection
+08/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1019.7,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,11,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.3,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,15,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,4,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1013.1,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,2,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,37,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,2,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,24,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,2.7,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,199,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,84,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,29,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,6,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,6,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,25,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,10.1,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,10,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.2,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,209,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,79,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1013.1,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.29,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,210,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,16,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,10,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,2,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1014.4,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,13,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,3,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,80,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+09/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,26,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO2,PPB,12,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.2,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250002,BOSTON-KENMORE,-5,NOX,PPB,20,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250002,BOSTON-KENMORE,-5,NO,PPB,8,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,NOX,PPB,1,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,NO,PPB,0,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,TEMP,C,14,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,WS,M/S,2.4,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,WD,DEGREES,29,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,RHUM,PERCENT,89,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,BARPR,MILLIBAR,1015.7,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,OZONE,PPB,15,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250041,Boston - Long Island,-5,NO2,PPB,1,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,NOX,PPB,13,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,8,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,NO2,PPB,11,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,14,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,13.8,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.2,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,41,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,84,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1015.7,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.24,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,12,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,NO2,PPB,10,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.19,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,NOX,PPB,15,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,NO,PPB,4,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,90,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,40,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,7.3,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,14,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,1.7,Massachusetts Dept. of Environmental Protection
+10/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1017.1,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.1,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,0,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,4,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,22,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,10,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,13.7,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,4.4,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,2.9,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,50,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,55,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1014.4,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.2,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,9.8,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.16,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,60,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,73,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,-0.1,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,10,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,2.6,Massachusetts Dept. of Environmental Protection
+11/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1015.7,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250002,BOSTON-KENMORE,-5,CO,PPM,0.2,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250002,BOSTON-KENMORE,-5,SO2,PPB,1,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,SRAD,WATTS/M2,3,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,OZONE,PPB,30,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,TEMP,C,11,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,NOY,PPB,12.1,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,PM2.5,UG/M3,17.7,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,WS,M/S,3.7,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,WD,DEGREES,205,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,RHUM,PERCENT,64,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,BARPR,MILLIBAR,1015.7,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,CO,PPM,0.3,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250042,Boston - Roxbury,-5,SO2,PPB,2,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250043,Boston - North End,-5,PM2.5,UG/M3,20.4,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,CO,PPM,0.31,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,RHUM,PERCENT,69,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,WD,DEGREES,201,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,PM2.5,UG/M3,9.9,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,SRAD,WATTS/M2,0,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,TEMP,C,12,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,WS,M/S,3.1,Massachusetts Dept. of Environmental Protection
+12/01/14,00:00,250250044,Boston-Von Hillern,-5,BARPR,MILLIBAR,1017.1,Massachusetts Dept. of Environmental Protection
