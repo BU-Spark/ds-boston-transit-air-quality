@@ -1,5 +1,6 @@
 
-
+fa23-team-c/data/AQI/unimportant/*
+fa23-team-c/data/AQI/unimportant.zip
 
 # Jetbrains Products
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -168,3 +169,7 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+# team A specific ignores 
+fa23-team-a/data/*
+

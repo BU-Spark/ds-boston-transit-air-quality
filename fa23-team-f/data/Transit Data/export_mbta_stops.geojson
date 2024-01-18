@@ -1,0 +1,2577 @@
+{"type":"FeatureCollection","agolLayerId":0,"features":[{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 1,
+    "STATION": "Ashmont",
+    "LINE": "RED",
+    "TERMINUS": "Y",
+    "ROUTE": "A - Ashmont  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06343073209578,
+      42.28389220528249
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 2,
+    "STATION": "Harvard",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11890668410516,
+      42.37403790495885
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 3,
+    "STATION": "Kendall/MIT",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08619209346455,
+      42.36242401789805
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 4,
+    "STATION": "Capen Street",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0872054188782,
+      42.26756171132929
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 5,
+    "STATION": "Tufts Medical Center",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0642821431678,
+      42.349088677981364
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 6,
+    "STATION": "Waban",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.23069406424845,
+      42.325886378149534
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 7,
+    "STATION": "Kenmore",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B C D"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.09554536879807,
+      42.34900553553904
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 8,
+    "STATION": "Arlington",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B C D E"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07099016638729,
+      42.35177711822454
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 9,
+    "STATION": "Copley",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B C D E"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07797604990398,
+      42.34991626667133
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 10,
+    "STATION": "Boylston",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B C D E"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0646027326983,
+      42.35302998758862
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 11,
+    "STATION": "Chinatown",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0625811314025,
+      42.3524828059409
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 12,
+    "STATION": "Haymarket",
+    "LINE": "GREEN/ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "GREEN C E / ORANGE Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0578522478225,
+      42.36248119417649
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 13,
+    "STATION": "North Station",
+    "LINE": "GREEN/ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "GREEN C E / ORANGE Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05998352629858,
+      42.3651524361617
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 14,
+    "STATION": "Davis",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12223463295415,
+      42.396760534686976
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 15,
+    "STATION": "South Station",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05517222951237,
+      42.35260165415135
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 16,
+    "STATION": "Oak Grove",
+    "LINE": "ORANGE",
+    "TERMINUS": "Y",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07082692792713,
+      42.43751328506126
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 17,
+    "STATION": "Malden Center",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0743158156205,
+      42.42658966648817
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 18,
+    "STATION": "Wellington",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07711803787602,
+      42.401748733230775
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 19,
+    "STATION": "Sullivan Square",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07693217152463,
+      42.3843060955106
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 20,
+    "STATION": "Community College",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07033881139333,
+      42.37391680843571
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 21,
+    "STATION": "Lechmere",
+    "LINE": "GREEN",
+    "TERMINUS": "Y",
+    "ROUTE": "E - Lechmere"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07715830445542,
+      42.370926547385665
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 22,
+    "STATION": "Science Park",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Lechmere"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06774458198433,
+      42.36675110806823
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 23,
+    "STATION": "Bowdoin",
+    "LINE": "BLUE",
+    "TERMINUS": "Y",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06183766354417,
+      42.3611694216324
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 24,
+    "STATION": "Government Center",
+    "LINE": "BLUE/GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "BLUE Bowdoin to Wonderland / GREEN B C D E"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05945925952686,
+      42.35930527139944
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 25,
+    "STATION": "Aquarium",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05193902294188,
+      42.35952563561878
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 26,
+    "STATION": "Maverick",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03958034943099,
+      42.369001656552896
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 27,
+    "STATION": "Airport",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03022508736353,
+      42.37437137884303
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 28,
+    "STATION": "Wood Island",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.02291286780864,
+      42.37965611367089
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 29,
+    "STATION": "Orient Heights",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0047969706546,
+      42.3868503238205
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 30,
+    "STATION": "Suffolk Downs",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.99715029772271,
+      42.390505144475455
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 31,
+    "STATION": "Beachmont",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.9925328219395,
+      42.39726032852953
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 32,
+    "STATION": "Revere Beach",
+    "LINE": "BLUE",
+    "TERMINUS": "N",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.9925040585483,
+      42.40785108885056
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 33,
+    "STATION": "Wonderland",
+    "LINE": "BLUE",
+    "TERMINUS": "Y",
+    "ROUTE": "Bowdoin to Wonderland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.99166508565531,
+      42.4134421718211
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 34,
+    "STATION": "Alewife",
+    "LINE": "RED",
+    "TERMINUS": "Y",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14207793210421,
+      42.39612970548549
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 35,
+    "STATION": "Porter",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11911483111783,
+      42.388329156687874
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 36,
+    "STATION": "Central",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10382578586427,
+      42.36544861207721
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 37,
+    "STATION": "Charles/MGH",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0710812021645,
+      42.36117629541555
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 38,
+    "STATION": "Broadway",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05717062856819,
+      42.34259035612199
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 39,
+    "STATION": "Andrew",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05697813415063,
+      42.33012189295375
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 40,
+    "STATION": "Savin Hill",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05364064748782,
+      42.31075648892279
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 41,
+    "STATION": "Fields Corner",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06192451044726,
+      42.300010284513526
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 42,
+    "STATION": "Shawmut",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06582947746283,
+      42.29311611032289
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 43,
+    "STATION": "Cedar Grove",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06031794886964,
+      42.27954822477801
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 44,
+    "STATION": "Butler",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06247055678983,
+      42.27242503281855
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 45,
+    "STATION": "Milton",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06724249166687,
+      42.27033576500026
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 46,
+    "STATION": "Central Avenue",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07360972902232,
+      42.269993829343186
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 47,
+    "STATION": "Valley Road",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0815042437956,
+      42.26833454300306
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 48,
+    "STATION": "Mattapan",
+    "LINE": "RED",
+    "TERMINUS": "Y",
+    "ROUTE": "Mattapan Trolley"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.09251296022767,
+      42.26752053452935
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 49,
+    "STATION": "North Quincy",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03044321589617,
+      42.27598503858865
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 50,
+    "STATION": "Wollaston",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0205434108901,
+      42.26671842869922
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 51,
+    "STATION": "Quincy Center",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.00564111025321,
+      42.25209568088775
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 52,
+    "STATION": "Quincy Adams",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.00694186933072,
+      42.23330234063715
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 53,
+    "STATION": "Braintree",
+    "LINE": "RED",
+    "TERMINUS": "Y",
+    "ROUTE": "B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.00170310620011,
+      42.207545903507494
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 54,
+    "STATION": "Forest Hills",
+    "LINE": "ORANGE",
+    "TERMINUS": "Y",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11419203491992,
+      42.30077990208413
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 55,
+    "STATION": "Green Street",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10805999911952,
+      42.30990740587145
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 56,
+    "STATION": "Stony Brook",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10444187101963,
+      42.31710846336818
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 57,
+    "STATION": "Jackson Square",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0999330782748,
+      42.32318028661599
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 58,
+    "STATION": "Ruggles",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08951017397557,
+      42.336674819665575
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 59,
+    "STATION": "Massachusetts Ave",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08415124771255,
+      42.34101505542594
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 60,
+    "STATION": "Back Bay",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0751066366595,
+      42.34756776622771
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 61,
+    "STATION": "Prudential",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08119968931614,
+      42.34577678134566
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 62,
+    "STATION": "Symphony",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08494120676527,
+      42.34272900708427
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 63,
+    "STATION": "Northeastern",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08965265423156,
+      42.34005930151212
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 64,
+    "STATION": "Museum Of Fine Arts",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.09497665243364,
+      42.33793380702168
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 65,
+    "STATION": "Longwood Medical Area",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.099561601674,
+      42.336149676481064
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 66,
+    "STATION": "Brigham Circle",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1037247917575,
+      42.33457971684473
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 67,
+    "STATION": "Fenwood Road",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1056462753105,
+      42.33375407333823
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 68,
+    "STATION": "Mission Park",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10958556936946,
+      42.33318807587314
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 69,
+    "STATION": "Riverway",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11195127302409,
+      42.33198667416966
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 70,
+    "STATION": "Back Of The Hill",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11107101401775,
+      42.329646916413516
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 71,
+    "STATION": "Heath Street",
+    "LINE": "GREEN",
+    "TERMINUS": "Y",
+    "ROUTE": "E - Health Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11028162318507,
+      42.32831995014921
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 72,
+    "STATION": "Hynes Convention Ctr/ICA",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B C D"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08731515700306,
+      42.34799095530965
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 73,
+    "STATION": "Blandford Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1000561908283,
+      42.34920674686209
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 74,
+    "STATION": "Boston University East",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10442854474968,
+      42.349729812223764
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 75,
+    "STATION": "Boston University Central",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10703672645508,
+      42.3500494269662
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 76,
+    "STATION": "Boston University West",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11350701518627,
+      42.35083035243323
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 77,
+    "STATION": "Saint Paul Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11634459391018,
+      42.35117167064446
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 78,
+    "STATION": "Pleasant Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11906076513112,
+      42.351498316325404
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 79,
+    "STATION": "Babcock Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1217158002115,
+      42.35181754474166
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 80,
+    "STATION": "Packards Corner",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12522644175958,
+      42.35179448304116
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 81,
+    "STATION": "Harvard Avenue",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1310078749852,
+      42.35042044405313
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 82,
+    "STATION": "Griggs Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.13436524128402,
+      42.34882818168594
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 83,
+    "STATION": "Allston Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.13763741638502,
+      42.34858476368441
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 84,
+    "STATION": "Warren Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14024101178855,
+      42.3486323184339
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 85,
+    "STATION": "Washington Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14254946843387,
+      42.34413195763334
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 86,
+    "STATION": "Sutherland Road",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14633052022918,
+      42.34157016504491
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 87,
+    "STATION": "Chiswick Road",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.15095193508198,
+      42.3406267495807
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 88,
+    "STATION": "Chestnut Hill Avenue",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.15265591756524,
+      42.33858643511934
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 89,
+    "STATION": "South Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.15726227670444,
+      42.339462705589135
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 90,
+    "STATION": "Boston College",
+    "LINE": "GREEN",
+    "TERMINUS": "Y",
+    "ROUTE": "B - Boston College"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.16702558879477,
+      42.340164104802575
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 91,
+    "STATION": "Cleveland Circle",
+    "LINE": "GREEN",
+    "TERMINUS": "Y",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1492872497562,
+      42.33614538083846
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 92,
+    "STATION": "Englewood Avenue",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14549901087135,
+      42.33699347049623
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 93,
+    "STATION": "Dean Road",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14195595861018,
+      42.33772300172987
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 94,
+    "STATION": "Tappan Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1384420001327,
+      42.33852748622629
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 95,
+    "STATION": "Washington Square",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.13536769137035,
+      42.33933608286563
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 96,
+    "STATION": "Fairbanks Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.13129764602381,
+      42.33964892333578
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 97,
+    "STATION": "Brandon Hall",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12865781289157,
+      42.340062305517186
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 98,
+    "STATION": "Summit Ave/Winchester St",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12578848137106,
+      42.34103703287417
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 99,
+    "STATION": "Coolidge Corner",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12129604798704,
+      42.34215865355926
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 100,
+    "STATION": "Saint Paul Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.1171896948296,
+      42.34321909300697
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 101,
+    "STATION": "Kent Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11429189486138,
+      42.34401878984226
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 102,
+    "STATION": "Hawes Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11117540822596,
+      42.34486858498542
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 103,
+    "STATION": "Saint Marys Street",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "C - Cleveland Circle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10724017027512,
+      42.345996040712876
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 104,
+    "STATION": "Fenway Park",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10460503292802,
+      42.34516730620675
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 105,
+    "STATION": "Longwood",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.10993517587254,
+      42.34167778480268
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 106,
+    "STATION": "Brookline Village",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.11682854333453,
+      42.332603330757806
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 107,
+    "STATION": "Brookline Hills",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.12672801450834,
+      42.33130325601878
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 108,
+    "STATION": "Beaconsfield",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14025988864506,
+      42.33570085087875
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 109,
+    "STATION": "Reservoir",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.14837963689406,
+      42.33514857482036
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 110,
+    "STATION": "Chestnut Hill",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.16460935799789,
+      42.326750445296575
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 111,
+    "STATION": "Newton Centre",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.19237044041017,
+      42.32942415081446
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 112,
+    "STATION": "Newton Highlands",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.20550249464893,
+      42.322362742123914
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 113,
+    "STATION": "Eliot",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.21658868705607,
+      42.31898682763903
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 114,
+    "STATION": "Woodland",
+    "LINE": "GREEN",
+    "TERMINUS": "N",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2432685472305,
+      42.33284148628648
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 115,
+    "STATION": "Riverside",
+    "LINE": "GREEN",
+    "TERMINUS": "Y",
+    "ROUTE": "D - Riverside"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.25255499300008,
+      42.337407070997166
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 116,
+    "STATION": "Downtown Crossing",
+    "LINE": "ORANGE/RED",
+    "TERMINUS": "N",
+    "ROUTE": "ORANGE Forest Hills to Oak Grove / RED A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06051268566665,
+      42.355442650464354
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 117,
+    "STATION": "Park Street",
+    "LINE": "GREEN/RED",
+    "TERMINUS": "N",
+    "ROUTE": "GREEN B C D E / RED A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06231042633357,
+      42.35621194071092
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 118,
+    "STATION": "JFK/UMass",
+    "LINE": "RED",
+    "TERMINUS": "N",
+    "ROUTE": "A - Ashmont  B - Braintree  C - Alewife"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05236135287927,
+      42.320645175554205
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 119,
+    "STATION": "State",
+    "LINE": "BLUE/ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "BLUE Bowdoin to Wonderland / ORANGE Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05781964455592,
+      42.35880801637695
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 120,
+    "STATION": "Roxbury Crossing",
+    "LINE": "ORANGE",
+    "TERMINUS": "N",
+    "ROUTE": "Forest Hills to Oak Grove"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.09600562034775,
+      42.33087631227474
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 121,
+    "STATION": "Airport Terminal B2",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.01836829105896,
+      42.363083886154584
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 122,
+    "STATION": "Dry Dock Ave at Design Ctr Pl, layover",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0346379519645,
+      42.34465586586656
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 123,
+    "STATION": "Lenox Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07854286262949,
+      42.33517532754126
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 124,
+    "STATION": "Massachusetts Ave",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07720035372262,
+      42.33625833617588
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 125,
+    "STATION": "Newton Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07375785251809,
+      42.33869952189455
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 126,
+    "STATION": "Union Park Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06921659936792,
+      42.341443473915305
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 127,
+    "STATION": "E.Berkeley Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0659269614036,
+      42.34418415747516
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 128,
+    "STATION": "Herald Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06460810527362,
+      42.34640466754652
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 129,
+    "STATION": "Worcester Square",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0753995029042,
+      42.337563703284204
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 130,
+    "STATION": "Melnea Cass Blvd",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08119941020726,
+      42.33271034157754
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 131,
+    "STATION": "Tuffs Medical Center",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0636926429564,
+      42.349619301448435
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 132,
+    "STATION": "Northern Avenue at Tide Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03178241352747,
+      42.34511216997042
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 133,
+    "STATION": "Northern Avenue at Harbor Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03511485506972,
+      42.34659711077621
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 134,
+    "STATION": "Airport Terminal B1",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.01854411366291,
+      42.3613483221236
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 135,
+    "STATION": "Airport Terminal A",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.02115451169696,
+      42.364734236493234
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 136,
+    "STATION": "Airport Terminal C",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.01783301384043,
+      42.36724497244539
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 137,
+    "STATION": "Airport Terminal E",
+    "LINE": "SILVER",
+    "TERMINUS": "Y",
+    "ROUTE": "SL1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.02102990301019,
+      42.36964671637236
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 138,
+    "STATION": "Silver Line Way",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1 SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03803773403843,
+      42.34697855985955
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 139,
+    "STATION": "World Trade Center",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1 SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.04263006449987,
+      42.34835018682283
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 140,
+    "STATION": "Court House",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1 SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.04688921822158,
+      42.352393609666976
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 141,
+    "STATION": "South Station",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL1 SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0552771718192,
+      42.352624981481824
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 142,
+    "STATION": "88 Black Falcon",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.026326314775,
+      42.34367032595846
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 143,
+    "STATION": "21 Dry Dock Avenue",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03088846694008,
+      42.34474583698093
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 144,
+    "STATION": "25 Dry Dock Avenue",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.02897929913316,
+      42.344773166806526
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 145,
+    "STATION": "Black Falcon at Design Center",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03430568412944,
+      42.34389238939016
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 146,
+    "STATION": "Boylston",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06419943398708,
+      42.353379373750826
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 147,
+    "STATION": "Downtown Crossing",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06116335150983,
+      42.35481673457598
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 148,
+    "STATION": "Chinatown",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0625687598981,
+      42.35242393741817
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 149,
+    "STATION": "Dudley Square",
+    "LINE": "SILVER",
+    "TERMINUS": "Y",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08371991084587,
+      42.32971266008549
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 150,
+    "STATION": "South Station Essex St.",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.05612760338956,
+      42.35190725923878
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 151,
+    "STATION": "306 Northern Avenue",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.03635446816293,
+      42.347609320140144
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 152,
+    "STATION": "Melnea Cass Blvd",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.08080249771506,
+      42.33311403291395
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 153,
+    "STATION": "Lenox Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07906097709218,
+      42.334937896947096
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 154,
+    "STATION": "Massachusetts Ave",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07730527241154,
+      42.33633302325775
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 155,
+    "STATION": "Worcester Square",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07587775929093,
+      42.33737971542937
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 156,
+    "STATION": "Newton Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.07388389354871,
+      42.338768424051935
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 157,
+    "STATION": "Union Park Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0696124054057,
+      42.34137877654416
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 158,
+    "STATION": "E.Berkeley Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06579545864537,
+      42.34414260037548
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 159,
+    "STATION": "Herald Street",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06472021370041,
+      42.34642036366309
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 160,
+    "STATION": "Tuffs Medical Center",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL4 SL5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.06380764735849,
+      42.34964863443425
+    ]
+  }
+},{
+  "type": "Feature",
+  "properties": {
+    "OBJECTID": 161,
+    "STATION": "Black Falcon corner stop",
+    "LINE": "SILVER",
+    "TERMINUS": "N",
+    "ROUTE": "SL2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.02714802073784,
+      42.34445849660181
+    ]
+  }
+}]}
